@@ -12,3 +12,5 @@ Pygments==2.21.0
 pytest==9.2.0
 Werkzeug==3.1.9
 gunicorn
+Flask
+Flask-SQLAlchemy
